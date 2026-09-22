@@ -59,7 +59,7 @@ A public dataset will be preferred where suitable. If a suitable dataset is not 
 
 ## Project Status
 
-🚧 **In development**
+ **In development**
 
 Current focus:
 
